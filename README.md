@@ -12,9 +12,9 @@ Features:
 * Cached values, Default values, Listener,
 * Object database maintenance utilities.
 
- See associated file frame-systems.text for a listing of a variety of other frame systems. 
+See associated file frame-systems.text for a listing of a variety of other frame systems. 
 
- The FRL Manual and the FrameKit (v2.0) User's Guide were read to ensure that this system did not overlook any of the basic functionality of frame systems. The MacPIKS (v1.0) User's Guide (a frame system implemented by the author for the Planning Research Corporation in 1985) was also read to verify that FrameWork did *not* accidentally include any innovative ideas developed for  MacPIKS. 
+The FRL Manual and the FrameKit (v2.0) User's Guide were read to ensure that this system did not overlook any of the basic functionality of frame systems. The MacPIKS (v1.0) User's Guide (a frame system implemented by the author for the Planning Research Corporation in 1985) was also read to verify that FrameWork did *not* accidentally include any innovative ideas developed for  MacPIKS. 
 
      Written by Mark Kantrowitz, December 1990.
      Address:   School of Computer Science
@@ -30,7 +30,7 @@ Features:
     General License Agreement and Lack of Warranty *****************
     ****************************************************************
 
- This software is distributed in the hope that it will be useful (both in and of itself and as an example of lisp programming), but WITHOUT ANY WARRANTY. The author(s) do not accept responsibility to anyone for the consequences of using it or for whether it serves any particular purpose or works at all. No warranty is made about the software or its performance. 
+This software is distributed in the hope that it will be useful (both in and of itself and as an example of lisp programming), but WITHOUT ANY WARRANTY. The author(s) do not accept responsibility to anyone for the consequences of using it or for whether it serves any particular purpose or works at all. No warranty is made about the software or its performance. 
  
 Use and copying of this software and the preparation of derivative works based on this software are permitted, so long as the following conditions are met:
 
