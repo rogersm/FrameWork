@@ -9,10 +9,7 @@ Features:
 
 * Generic demons (active values) & procedural attachment.
 * Object-Oriented Programming with attribute and behavior inheritance in an associative network (methods and message passing)
-* Cached values, Default values, Listener,
-* Object database maintenance utilities.
-
-See associated file frame-systems.text for a listing of a variety of other frame systems. 
+* Cached values, Default values, Listener, Object database maintenance utilities.
 
 The FRL Manual and the FrameKit (v2.0) User's Guide were read to ensure that this system did not overlook any of the basic functionality of frame systems. The MacPIKS (v1.0) User's Guide (a frame system implemented by the author for the Planning Research Corporation in 1985) was also read to verify that FrameWork did *not* accidentally include any innovative ideas developed for  MacPIKS. 
 
